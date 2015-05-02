@@ -1,0 +1,108 @@
+body {
+	padding: 20px 10px;
+	font-family: Tahoma;
+	max-width: 1500px;
+	margin: 20 auto; /* The 0 refers to the top and bottom margins and the "auto" automatically */
+	font-size: 1em;
+  background-color: #E6E6E6;
+  color: white;
+}                 /* sets the left and right margins to equal values. This centers the body on the page.*/
+
+h1 {
+	text-align: right;
+	color: #19A3D1;
+  margin: 20px;
+  font-size: 2.5em;
+}
+
+h2 {
+	text-align: left;
+	color: white;
+  font-size: 1.25em;
+
+}
+
+h3 {
+	text-align: left;
+	color: white;
+  font-size: 1.0em;
+  font-weight: bold;
+  
+
+}
+
+.Header {
+	background-color: white;
+	border-radius: 10 px;
+	padding: 10px;
+	margin: 10px auto;
+}
+
+.MenuBar {
+	background-color: #003366;
+	border-radius: 20 px;
+	padding: 10px;
+	margin: 10px auto;
+  }
+
+a:link {
+   color: white;
+   padding: 10px;
+   margin: 20px;
+   text-decoration: none;
+}
+a:hover {
+  color: #efefef;
+  background-color: #19A3D1 ;
+  padding: 10px;
+  margin: 20px;
+  
+}
+
+a:visited {
+  color: #ef8822;
+  background-color: #19A3D1 ;
+  padding: 10px;
+  margin: 20px;
+  
+}
+
+a2:link {
+   color: white;
+   padding: 10px;
+   margin: 20px;
+   text-decoration: none;
+}
+
+a2:hover {
+  color: #19A3D1;
+}
+
+.LessonBody {
+  background-color: #19A3D1;
+  margin-bottom: 10px;
+   padding-top: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+}
+
+.LessonBody2 {
+  background-color: #003366;
+  margin-bottom: 10px;
+   padding-top: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  
+}
+
+.list_info {
+  font-size: .9em
+}
+
+.list_title {
+  font-weight: bold;
+  font-size: .9em
+}
+
